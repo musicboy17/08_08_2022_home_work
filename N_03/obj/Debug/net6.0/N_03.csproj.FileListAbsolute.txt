@@ -1,0 +1,15 @@
+C:\C#\08_08_2022_home_work\N_03\bin\Debug\net6.0\N_03.exe
+C:\C#\08_08_2022_home_work\N_03\bin\Debug\net6.0\N_03.deps.json
+C:\C#\08_08_2022_home_work\N_03\bin\Debug\net6.0\N_03.runtimeconfig.json
+C:\C#\08_08_2022_home_work\N_03\bin\Debug\net6.0\N_03.dll
+C:\C#\08_08_2022_home_work\N_03\bin\Debug\net6.0\N_03.pdb
+C:\C#\08_08_2022_home_work\N_03\obj\Debug\net6.0\N_03.csproj.AssemblyReference.cache
+C:\C#\08_08_2022_home_work\N_03\obj\Debug\net6.0\N_03.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\08_08_2022_home_work\N_03\obj\Debug\net6.0\N_03.AssemblyInfoInputs.cache
+C:\C#\08_08_2022_home_work\N_03\obj\Debug\net6.0\N_03.AssemblyInfo.cs
+C:\C#\08_08_2022_home_work\N_03\obj\Debug\net6.0\N_03.csproj.CoreCompileInputs.cache
+C:\C#\08_08_2022_home_work\N_03\obj\Debug\net6.0\N_03.dll
+C:\C#\08_08_2022_home_work\N_03\obj\Debug\net6.0\refint\N_03.dll
+C:\C#\08_08_2022_home_work\N_03\obj\Debug\net6.0\N_03.pdb
+C:\C#\08_08_2022_home_work\N_03\obj\Debug\net6.0\N_03.genruntimeconfig.cache
+C:\C#\08_08_2022_home_work\N_03\obj\Debug\net6.0\ref\N_03.dll
